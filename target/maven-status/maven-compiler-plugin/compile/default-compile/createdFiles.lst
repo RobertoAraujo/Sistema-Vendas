@@ -1,0 +1,5 @@
+com\poshyweb\venda\service\ClineteService.class
+com\poshyweb\venda\config\DbConfiguration.class
+com\poshyweb\venda\dominio\ClienteEntity.class
+com\poshyweb\venda\repository\ClienteRepositoryentity.class
+com\poshyweb\venda\VendaAplication.class
