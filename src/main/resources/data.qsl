@@ -1,0 +1,4 @@
+create table cleinte(
+    id int not null primary key,
+    nome varchar(100)
+);
