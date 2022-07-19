@@ -2,17 +2,17 @@ package com.poshyweb.venda.dominio;
 
 public class ClienteEntity {
 
-    private Long id;
+    private Integer id;
     private String nome;
 
     public ClienteEntity() {
     }
 
-    public Long getId() {
+    public Integer getId() {
         return id;
     }
 
-    public void setId(Long id) {
+    public void setId(Integer id) {
         this.id = id;
     }
 

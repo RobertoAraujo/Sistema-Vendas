@@ -1,8 +1,5 @@
 package com.poshyweb.venda.service;
 
-import com.poshyweb.venda.dominio.ClienteEntity;
-import com.poshyweb.venda.repository.ClienteRepositoryentity;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 @Service
